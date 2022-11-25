@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "814462242600",
+    "project_id": "solodroid-project-45963",
+    "storage_bucket": "solodroid-project-45963.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814462242600:android:14d90d330259878aae8a1d",
+        "android_client_info": {
+          "package_name": "com.app.androidnewsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814462242600-4ai87j28qql7mtdhu1i97rnacis7ofek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDknBo3FMEHdfZBI3J0pS0WHeiwL4wudik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814462242600-4ai87j28qql7mtdhu1i97rnacis7ofek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814462242600:android:9c6ce73099c3a3e2ae8a1d",
+        "android_client_info": {
+          "package_name": "com.app.onthisday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814462242600-4ai87j28qql7mtdhu1i97rnacis7ofek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDknBo3FMEHdfZBI3J0pS0WHeiwL4wudik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814462242600-4ai87j28qql7mtdhu1i97rnacis7ofek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
